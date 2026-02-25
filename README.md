@@ -9,3 +9,9 @@ The robot navigates through a maze autonomously, detects obstacles, and simulate
 
 ## 🎯 Goal 
 We aim to continuously improve the robot and add more advanced features.
+
+## Team
+
+### Seyed Mohammad Hossein Seyedi
+### Mehdi Kazemi
+### Armin Gholizadeh
